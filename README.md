@@ -1,16 +1,21 @@
-### Hi there 👋 I'm Dawit
+# Hi there, I'm Dawit Yimer 👋
 
-<!--
-**Dawit-y/Dawit-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer who loves to create amazing web applications using cutting-edge technologies.
 
-Here are some ideas to get you started:
+## 🛠️ My skills
+- **Front-end:** React, HTML, CSS, JavaScript
+- **Back-end:** Django, Laravel, PHP, Python
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Heroku, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 I'm currently learning
+- Data science with Python
+- Machine learning 
+
+## 💡 I'm looking for
+- Collaborating on exciting web development projects
+- Learning from other developers and sharing my knowledge
+
+## 📫 How to reach me
+- Email: <dawityimer52@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/dawit-yimer-86414823a>
