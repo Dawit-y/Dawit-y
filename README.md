@@ -3,8 +3,8 @@
 I am a full stack web developer who loves to create amazing web applications using cutting-edge technologies.
 
 ## 🛠️ My skills
-- **Front-end:** React, HTML, CSS, JavaScript
-- **Back-end:** Django, Laravel, PHP, Python
+- **Front-end:** React,NextJs HTML, CSS, JavaScript
+- **Back-end:** Django, NodeJs, Python
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Heroku, AWS
 
