@@ -8,10 +8,6 @@ I am a full stack web developer who loves to create amazing web applications usi
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Heroku, AWS
 
-## 📚 I'm currently learning
-- Data science with Python
-- Machine learning 
-
 ## 💡 I'm looking for
 - Collaborating on exciting web development projects
 - Learning from other developers and sharing my knowledge
